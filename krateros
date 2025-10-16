@@ -1,0 +1,31 @@
+Krateros 
+🔶🔶🔶🔶
+Fire Destruction 
+
+-Talent: The Glory of Kremnos-
+When Krateros has his HP reduced, records the amount of HP lost and adds it to "Bloodbath". When "Bloodbath" meets or exceeds Krateros' Max HP, clears the tally and grants 1 use of Follow-Up ATK: Forged in Strife.
+When the ally with "Vanguard" attacks, Krateros will automatically use Follow-Up ATK: Forged in Strife if possible.
+
+-Follow-Up ATK: Forged in Strife-
+Deals Fire DMG to a single enemy based on this unit's Max HP, and half as much to adjacent enemies. If only a single enemy target is present, deals an additional instance of Fire DMG to the target enemy.
+
+-Basic ATK: Scorching Smite-
+Deals Fire DMG to a single enemy based on this unit's Max HP.
+
+-Skill: Glory in Sacrifice-
+Reduce the HP of a single ally target by x%.
+Additionally, grants "Vanguard" to the targeted ally. "Vanguard" raises Max HP by an amount equal to y% of Krateros' Max HP, and increases their DMG dealt by z%.
+
+-Ultimate: The Art of War-
+Deals Fire DMG to all enemies based on this unit's Max HP. Reduces own HP by x% of Max HP, and if an ally target currently has "Vanguard", reduces their HP by an equal amount.
+
+-Major Traces-
+ T1: When the ally with "Vanguard" has their HP reduced, the amount lost is added to the "Bloodbath" tally.
+ T2: Upon entering battle, Krateros' first action is advanced forward by 40%.
+ T3: Krateros's Crit Rate is increased by x%. When using Follow-Up ATK, additionally raises Crit Rate by y%.
+
+-Eidolons-
+ E1: When Krateros uses his Skill on an ally other than himself, reduces his own HP by x% of Max HP.
+ E2: Each time "Bloodbath" tally is cleared, raises Krateros' Crit DMG by x%, stacking y times. This effect is also granted to the ally with "Vanguard".
+ E4: The ally with "Vanguard" receives x% more Incoming Healing. If the ally with "Vanguard" has their HP reduced to 0, Krateros will fully restore their HP and become Downed.
+ E6: When "Bloodbath" tally is cleared, restores HP to the ally with "Vanguard" by an amount equal to half the cleared tally. If no ally with "Vanguard" is present, Krateros will be healed instead.
