@@ -20,12 +20,12 @@ Additionally, grants "Vanguard" to the targeted ally. "Vanguard" raises Max HP b
 Deals Fire DMG to all enemies based on this unit's Max HP. Reduces own HP by x% of Max HP, and if an ally target currently has "Vanguard", reduces their HP by an equal amount.
 
 -Major Traces-
- T1: When the ally with "Vanguard" has their HP reduced, the amount lost is added to the "Bloodbath" tally.
+ T1: When the ally with "Vanguard" has their HP reduced, the amount lost is added to the "Bloodbath" tally. 
  T2: Upon entering battle, Krateros' first action is advanced forward by 40%.
  T3: Krateros's Crit Rate is increased by x%. When using Follow-Up ATK, additionally raises Crit Rate by y%.
 
 -Eidolons-
  E1: When Krateros uses his Skill on an ally other than himself, reduces his own HP by x% of Max HP.
  E2: Each time "Bloodbath" tally is cleared, raises Krateros' Crit DMG by x%, stacking y times. This effect is also granted to the ally with "Vanguard".
- E4: The ally with "Vanguard" receives x% more Incoming Healing. If the ally with "Vanguard" has their HP reduced to 0, Krateros will fully restore their HP and become Downed.
+ E4: The ally with "Vanguard" receives x% more Incoming Healing. When Krateros has his HP reduced, the ally with "Vanguard" is also considered as having lost an equal amount of HP. (For example, Krateros takes damage -> Blade gains a stack)
  E6: When "Bloodbath" tally is cleared, restores HP to the ally with "Vanguard" by an amount equal to half the cleared tally. If no ally with "Vanguard" is present, Krateros will be healed instead.
