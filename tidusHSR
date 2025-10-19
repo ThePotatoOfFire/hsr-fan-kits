@@ -1,0 +1,34 @@
+Tidus (Final Fantasy X)
+🔶🔶🔶🔶🔶
+Ice Hunt
+
+-Talent: Quick Hit-
+When Tidus triggers Weakness Break, inflicts "Breakthrough" for 1 turn. "Breakthrough" reduces SPD by x% and increases Break DMG taken by y%.
+When Tidus attacks an enemy afflicted with "Breakthrough", advances his next action forward by x% and triggers the Follow-Up attack Sphere Shot.
+Sphere Shot deals Ice DMG equal to x% of this unit's ATK. If the enemy is Weakness Broken, additionally deals y% Super Break DMG.
+
+-Basic ATK: Spiral Cut-
+Deals Ice DMG to a single enemy based on this unit's ATK.
+
+-Skill: Slice & Dice-
+Deals Ice DMG to a single enemy based on this unit's ATK. Deals additional instances of Ice DMG as this unit's SPD increases, to a maximum of 6 attacks.
+
+-Ultimate: Blitz Ace-
+Deals Ice DMG to a single enemy based on this unit's ATK. Deals additional instances of Ice DMG as this unit's SPD increases, to a maximum of 9 attacks.
+Upgrades the next 3 uses of Talent's Sphere Shot to Jecht Shot.
+Jecht Shot deals Ice DMG equal to x% of this unit's ATK 3 times. If the enemy is Weakness Broken, additionally deals y% Super Break DMG.
+
+-Major Traces-
+ Ace Striker: Each time an enemy is hit by Tidus's Skill, Ultimate, or Follow-up Attack, his Weakness Break Efficiency increases by x%, stacking 5 times and lasting until the end of the action.
+ Delay Buster: When Tidus triggers Weakness Break, delays the target's next action by an additional x%. When an enemy takes DMG from debuffs inflicted by Tidus, multiplies the DMG dealt by his current Break Effect.
+ Brotherhood: When Break Effect reaches x%, Tidus's SPD increases by a set amount. When Break Effect reaches y%, increases SPD even further.
+
+-Eidolons-
+ E1: When Tidus is on the field, any time an enemy is Weakness Broken, raises all allies' SPD by x%, lasting y turns. When attacking Weakness Broken enemies, increases Tidus's Ice RES PEN by z%.
+ E2: When Tidus attacks Weakness Broken enemies, if their Toughness has been completely reduced to 0 (including any form of additional exo-Toughness), Tidus will reset their Toughness to 1 before dealing DMG. For this attack, Tidus will be able to reduce Toughness regardless of enemy Weaknesses. This effect can only trigger once, and resets each time Tidus uses his Ultimate.
+ E4: When Tidus inflicts Weakness Break, raises his Break Effect by x%, lasting y turns.
+ E6: When Tidus inflicts Weakness Break, his Ultimate is instantly activated, and its DMG multiplier is increased by x%. The Weakness Break Efficiency buff from the trace "Ace Striker" no longer expires, and its stack limit is doubled. 
+
+Notes:
+-Fast and strong, but cannot innately reduce Toughness outside of Ice-weak mobs, and cannot force Weakness. This means he can only fight off-element with support from characters like Fugue or Silver Wolf.
+-In keeping with current Hoyo design philosophy, E2 is a game-changer for his playstyle. 
